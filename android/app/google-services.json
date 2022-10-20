@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "767996100179",
+    "firebase_url": "https://movie-17eee-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "movie-17eee",
+    "storage_bucket": "movie-17eee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767996100179:android:18ab343fa1a0d00082d0a6",
+        "android_client_info": {
+          "package_name": "com.example.skripsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767996100179-letrt78n8otbtudq0lnurr948ddses67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABA3kABbCjruxgvM0g_DzJ7fqjyWqhX3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767996100179-letrt78n8otbtudq0lnurr948ddses67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767996100179:android:abaa8ea965aa1f1782d0a6",
+        "android_client_info": {
+          "package_name": "com.julian.watch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767996100179-letrt78n8otbtudq0lnurr948ddses67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABA3kABbCjruxgvM0g_DzJ7fqjyWqhX3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767996100179-letrt78n8otbtudq0lnurr948ddses67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767996100179:android:8c54137153c2286882d0a6",
+        "android_client_info": {
+          "package_name": "com.julianreza.healio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767996100179-letrt78n8otbtudq0lnurr948ddses67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABA3kABbCjruxgvM0g_DzJ7fqjyWqhX3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767996100179-letrt78n8otbtudq0lnurr948ddses67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
